@@ -1,0 +1,27 @@
+html{
+    background-color: antiquewhite;
+}
+div{
+    width: 25%;
+    height: 25px;
+    border: 2px solid;
+    border-radius: 5px;    
+    background-color: lightgray;
+    border-color: black;
+    margin:auto;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.div1{
+    text-align: left;
+}
+
+.div2{
+text-align: center;
+}
+
+.div3{
+text-align: right;
+
+}

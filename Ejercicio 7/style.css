@@ -1,0 +1,22 @@
+html{
+    background-color:rgb(245, 218, 142);
+}
+
+h1{
+    color: limegreen;
+}
+
+h1:hover{
+    color:green;
+}
+
+.parrafotriple{
+    column-count: 3;
+    column-rule: 2px solid red;
+    column-gap: 40px;
+}
+
+.parrafotriple::selection{
+    color: red;
+    background-color: rgb(5, 5, 71);
+}

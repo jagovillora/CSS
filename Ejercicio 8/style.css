@@ -1,0 +1,18 @@
+div{ 
+    padding: 100px;
+    margin: 100px;
+    width: 400px;
+    height: 400px;
+    border-top-style: dotted;
+    border-top-color: green;
+    border-top-width: 4px;
+    border-left-style: double;
+    border-left-color: #000; 
+    border-left-width: 10px;   
+    border-right-style: dashed;
+    border-right-color: blue;
+    border-right-width: 10px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
+    border-bottom-width: 4px;
+}
