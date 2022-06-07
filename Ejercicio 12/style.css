@@ -3,6 +3,11 @@ width: 100px;
 height: 100px;
 background-color: red;
 overflow: auto;
-outline: 1px solid black;
-
+outline: 3px solid black;
+outline-style: dotted ;
+}
+div:hover{
+    overflow: auto;
+    outline: 6px solid green;
+    outline-style: dotted ;
 }
