@@ -1,0 +1,84 @@
+@media(max-width:425px){
+    .HEADER{
+        background-color: black;
+        color: white;
+        display: grid;
+        grid-template-rows: 30px auto;
+    }
+    .MENU{
+        background-color: red;
+        color: white;
+        display: grid;
+        grid-template-rows: 30px auto;
+    }
+    .HERO{
+       background-color: blue;
+       color: white;
+       display: grid;
+       grid-template-rows: 70px auto;
+    }
+    .MAIN{
+        background-color: navy;
+        color: white;
+        display: grid;
+        grid-template-rows: 70px auto;
+    }
+    .BANNER{
+        background-color: yellow;
+        display: grid;
+        grid-template-rows: 40px auto;
+    }
+    .EXTRA{
+        background-color: greenyellow;
+        display: grid;
+        grid-template-rows: 40px auto;
+    }
+    .IMAGE{
+        background-color: aquamarine;
+        display: grid;
+        grid-template-rows: 40px auto;
+    }
+    
+}
+@media(max-width:768px){
+    .HEADER{
+        background-color: black;
+        color: white;
+        display: grid;
+        grid-template-rows: 30px auto;
+    }
+    .MENU{
+        background-color: red;
+        color: white;
+        display: grid;
+        grid-template-rows: 30px auto;
+    }
+    .HERO{
+       background-color: blue;
+       color: white;
+       display: grid;
+       grid-template-rows: 70px auto;
+    }
+    .MAIN{
+        background-color: navy;
+        color: white;
+        display: grid;
+        grid-template-rows: 70px auto;
+    }
+    .BANNER{
+        background-color: yellow;
+        display: grid;
+        grid-template-rows: 40px auto;
+    }
+    .EXTRA{
+        background-color: greenyellow;
+        display: grid;
+        grid-template-rows: 40px auto;
+    }
+    .IMAGE{
+        background-color: aquamarine;
+        display: grid;
+        grid-template-rows: 40px auto;
+    }
+    
+}
